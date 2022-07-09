@@ -1,2 +1,2 @@
 # webapp
-use fastapi as backend and vue-cli as frontend
+use django as backend and vue-cli as frontend
